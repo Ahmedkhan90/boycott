@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+     padding: 10px;
+}
+/* .navbar{
+    background-color: black!important;
+    color: white !important;
+} */
+
+.card-deck {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10 10 10 10;
+    
+}
+.btn-secondary, .dropdown-toggle{
+    background-color: green !important;
+}
+
+.dropdown-menu{
+    /* background-color: green!important; */
+    color: white !important;
+    
+    
+}
+
+.card-title{
+    text-align: center;
+    font-size: 30px;
+}
+.card-img-top {
+    height: 300px !important;
+    
+}
+
+#carouselExampleCaptions {
+    border-top: 1px solid white;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    padding-top: 45px;
+    color: white;
+
+}
